@@ -2,3 +2,7 @@
 # Each Flutter project regenerates these itself via `flutterfire configure`.
 **/android/app/google-services.json
 **/lib/firebase_options.dart
+*.gitignore
+*.DS_Store
+*.zip
+*.tar.gz

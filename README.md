@@ -8,11 +8,11 @@
 
 ## Root folders
 
-| Folder | What it contains |
-| --- | --- |
-| `flutter/` | Flutter/Dart apps and class projects. |
-| `mypackage/` | Dart package coursework. |
-| `sample_dart_project/` | Sample Dart CLI project. |
+| Folder | Stack | What it contains |
+| --- | --- | --- |
+| `flutter/` | Dart, Flutter | Flutter/Dart apps and class projects. |
+| `mypackage/` | Dart | Dart package coursework. |
+| `sample_dart_project/` | Dart | Sample Dart CLI project. |
 
 Only root folders are listed. Generated caches, package folders, editor settings, and other non-personal folders are omitted.
 
